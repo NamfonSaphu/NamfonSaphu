@@ -7,7 +7,7 @@ Developer
 Developer and try to learn. Never stop learning
 
 *   🌍  I'm based in bangkok
-*   🖥️  See my portfolio at [https://portfolio-one-silk-40.vercel.app/](http://portfolio.com)
+*   🖥️  See my portfolio at [https://portfolio-one-silk-40.vercel.app/](http://portfolio-one-silk-40.vercel.app/)
 *   ✉️  You can contact me at [namfonsaphu@gmail.com](mailto:namfonsaphu@gmail.com)
 *   🧠  I'm learning ReactJS, NextJS, TypeScript and NodeJS### Skills 
 <p align="left">
